@@ -8,7 +8,7 @@ function App() {
   const [students, setStudents] = useState([]);
 
   useEffect(() => {
-    fetch('https://example.com/api/students')
+    fetch('https://our/api/students')
       .then(response => response.json())
       .then(data => setStudents(data));
   }, []);
