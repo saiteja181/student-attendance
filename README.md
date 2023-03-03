@@ -10,9 +10,7 @@ Responsive design using TailwindCSS.
 Getting Started
 To get started with this app, clone the GitHub repository and install the necessary dependencies using npm:
 
-bash
-Copy code
-git clone https://github.com/ChatGPT/react-student-attendance-system.git
+
 cd react-student-attendance-system
 npm install
 To start the app, run the following command:
